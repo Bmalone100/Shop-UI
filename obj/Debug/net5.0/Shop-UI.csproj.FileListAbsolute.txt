@@ -1,0 +1,16 @@
+C:\workarea\ShopUI\Shop-UI\obj\Debug\net5.0\Shop-UI.csprojAssemblyReference.cache
+C:\workarea\ShopUI\Shop-UI\obj\Debug\net5.0\Shop-UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\workarea\ShopUI\Shop-UI\obj\Debug\net5.0\Shop-UI.AssemblyInfoInputs.cache
+C:\workarea\ShopUI\Shop-UI\obj\Debug\net5.0\Shop-UI.AssemblyInfo.cs
+C:\workarea\ShopUI\Shop-UI\obj\Debug\net5.0\Shop-UI.csproj.CoreCompileInputs.cache
+C:\workarea\ShopUI\Shop-UI\bin\Debug\net5.0\Shop-UI.exe
+C:\workarea\ShopUI\Shop-UI\bin\Debug\net5.0\Shop-UI.deps.json
+C:\workarea\ShopUI\Shop-UI\bin\Debug\net5.0\Shop-UI.runtimeconfig.json
+C:\workarea\ShopUI\Shop-UI\bin\Debug\net5.0\Shop-UI.runtimeconfig.dev.json
+C:\workarea\ShopUI\Shop-UI\bin\Debug\net5.0\Shop-UI.dll
+C:\workarea\ShopUI\Shop-UI\bin\Debug\net5.0\ref\Shop-UI.dll
+C:\workarea\ShopUI\Shop-UI\bin\Debug\net5.0\Shop-UI.pdb
+C:\workarea\ShopUI\Shop-UI\obj\Debug\net5.0\Shop-UI.dll
+C:\workarea\ShopUI\Shop-UI\obj\Debug\net5.0\ref\Shop-UI.dll
+C:\workarea\ShopUI\Shop-UI\obj\Debug\net5.0\Shop-UI.pdb
+C:\workarea\ShopUI\Shop-UI\obj\Debug\net5.0\Shop-UI.genruntimeconfig.cache
